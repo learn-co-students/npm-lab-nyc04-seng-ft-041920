@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-nyc04-seng-ft-041920",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jukebox101/npm-lab-nyc04-seng-ft-041920.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jukebox101/npm-lab-nyc04-seng-ft-041920/issues"
+  },
+  "homepage": "https://github.com/jukebox101/npm-lab-nyc04-seng-ft-041920#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
